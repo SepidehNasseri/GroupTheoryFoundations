@@ -1,1 +1,3 @@
-import GroupTheoryFoundations.Basic
+module
+
+public import GroupTheoryFoundations.Basic
